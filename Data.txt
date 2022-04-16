@@ -1,0 +1,1 @@
+* this file is used for storing the logged keys or keys pressed by user *
